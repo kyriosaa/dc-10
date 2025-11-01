@@ -25,18 +25,18 @@ A 10-LED chaser that sequentially illuminates LEDs using a CD74HC4017E decade co
 ## Images
 
 **Schematic**
-<img src="images/dc-10_schematic.png">
+<img src="images/v2/v2_dc-10_schematic.png">
 
 **PCB Layout**
-<img src="images/dc-10_pcb_layout.png">
+<img src="images/v2/v2_dc-10_pcb_layout.png">
 
 **3D Model**
-<img src="images/dc-10_pcb_model1.png">
-<img src="images/dc-10_pcb_model2.png">
+<img src="images/v2/v2_dc-10_pcb_model1.png">
+<img src="images/v2/v2_dc-10_pcb_model2.png">
 
 **Drawing**
-<img src="images/dc-10_drawing1.png">
-<img src="images/dc-10_drawing2.png">
+<img src="images/v2/v2_dc-10_drawing1.png">
+<img src="images/v2/v2_dc-10_drawing2.png">
 
 # Previous Versions
 
@@ -45,15 +45,15 @@ A 10-LED chaser that sequentially illuminates LEDs using a CD74HC4017E decade co
 This version had an issue with tracing and my inexperience with using Altium Designer. This led to the LEDs not lighting up sequentially in a clockwise fashion.
 
 **Schematic**
-<img src="images/dc-10_schematic.png">
+<img src="images/v1/v1_dc-10_schematic.png">
 
 **PCB Layout**
-<img src="images/dc-10_pcb_layout.png">
+<img src="images/v1/v1_dc-10_pcb_layout.png">
 
 **3D Model**
-<img src="images/dc-10_pcb_model1.png">
-<img src="images/dc-10_pcb_model2.png">
+<img src="images/v1/v1_dc-10_pcb_model1.png">
+<img src="images/v1/v1_dc-10_pcb_model2.png">
 
 **Drawing**
-<img src="images/dc-10_drawing1.png">
-<img src="images/dc-10_drawing2.png">
+<img src="images/v1/v1_dc-10_drawing1.png">
+<img src="images/v1/v1_dc-10_drawing2.png">
